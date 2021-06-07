@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gcQSA2hbEe04uPGFAvg4zf3sonhbnIge2+1gQKhGC9fu76lvNzHFGzIMh2699O7AwYimu6RfGzgazQ+jxY5pGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\calciphur\\source\\repos\\SteamProject\\SteamProject\\SteamProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\calciphur\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

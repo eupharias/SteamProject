@@ -1,0 +1,15 @@
+C:\Users\calciphur\source\repos\SteamProject\SteamProject\bin\Debug\netcoreapp3.1\SteamProject.exe
+C:\Users\calciphur\source\repos\SteamProject\SteamProject\obj\Debug\netcoreapp3.1\SteamProject.csprojAssemblyReference.cache
+C:\Users\calciphur\source\repos\SteamProject\SteamProject\obj\Debug\netcoreapp3.1\SteamProject.AssemblyInfoInputs.cache
+C:\Users\calciphur\source\repos\SteamProject\SteamProject\obj\Debug\netcoreapp3.1\SteamProject.AssemblyInfo.cs
+C:\Users\calciphur\source\repos\SteamProject\SteamProject\obj\Debug\netcoreapp3.1\SteamProject.csproj.CoreCompileInputs.cache
+C:\Users\calciphur\source\repos\SteamProject\SteamProject\bin\Debug\netcoreapp3.1\SteamProject.deps.json
+C:\Users\calciphur\source\repos\SteamProject\SteamProject\bin\Debug\netcoreapp3.1\SteamProject.runtimeconfig.json
+C:\Users\calciphur\source\repos\SteamProject\SteamProject\bin\Debug\netcoreapp3.1\SteamProject.runtimeconfig.dev.json
+C:\Users\calciphur\source\repos\SteamProject\SteamProject\bin\Debug\netcoreapp3.1\SteamProject.dll
+C:\Users\calciphur\source\repos\SteamProject\SteamProject\bin\Debug\netcoreapp3.1\SteamProject.pdb
+C:\Users\calciphur\source\repos\SteamProject\SteamProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\calciphur\source\repos\SteamProject\SteamProject\obj\Debug\netcoreapp3.1\SteamProject.csproj.CopyComplete
+C:\Users\calciphur\source\repos\SteamProject\SteamProject\obj\Debug\netcoreapp3.1\SteamProject.dll
+C:\Users\calciphur\source\repos\SteamProject\SteamProject\obj\Debug\netcoreapp3.1\SteamProject.pdb
+C:\Users\calciphur\source\repos\SteamProject\SteamProject\obj\Debug\netcoreapp3.1\SteamProject.genruntimeconfig.cache

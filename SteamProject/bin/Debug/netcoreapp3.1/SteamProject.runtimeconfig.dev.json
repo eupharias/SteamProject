@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\calciphur\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\calciphur\\.nuget\\packages"
+    ]
+  }
+}
